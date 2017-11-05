@@ -25837,7 +25837,5 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
 	cr.system_object.prototype.cnds.Every,
 	cr.system_object.prototype.cnds.Repeat,
-	cr.system_object.prototype.acts.CreateObject,
-	cr.plugins_.Sprite.prototype.exps.Width,
-	cr.system_object.prototype.acts.AddVar
+	cr.system_object.prototype.acts.CreateObject
 ];};
