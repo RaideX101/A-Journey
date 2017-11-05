@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1509842584,
+	"version": 1509843832,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,9 +27,6 @@
 		"images/background_violetsky2-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite3-sheet1.png",
-		"images/ninja_kitten_base2-sheet0.png",
-		"images/ninja_kitten_base2-sheet1.png",
-		"images/ninja_kitten_base2-sheet2.png",
 		"images/gras_overlay_texture-sheet0.png",
 		"images/gras_overlay_texture-sheet1.png",
 		"images/gras_overlay_texture2-sheet0.png",

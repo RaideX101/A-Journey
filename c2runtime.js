@@ -25802,6 +25802,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.cnds.OnLand,
 	cr.behaviors.Platform.prototype.cnds.IsMoving,
 	cr.behaviors.Platform.prototype.cnds.OnMove,
+	cr.plugins_.Mouse.prototype.cnds.OnClick,
 	cr.plugins_.Sprite.prototype.cnds.OnCollision,
 	cr.behaviors.Platform.prototype.cnds.IsFalling,
 	cr.plugins_.Sprite.prototype.cnds.CompareY,
