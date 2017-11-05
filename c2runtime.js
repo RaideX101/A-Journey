@@ -25776,13 +25776,13 @@ cr.behaviors.solid = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
-	cr.plugins_.Mouse,
 	cr.plugins_.gamepad,
+	cr.plugins_.Mouse,
 	cr.plugins_.Keyboard,
-	cr.plugins_.TiledBg,
 	cr.plugins_.TextBox,
 	cr.plugins_.Sprite,
 	cr.plugins_.Touch,
+	cr.plugins_.TiledBg,
 	cr.plugins_.WebStorage,
 	cr.behaviors.solid,
 	cr.behaviors.Flash,
@@ -25834,6 +25834,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.acts.SetIgnoreInput,
 	cr.behaviors.Platform.prototype.acts.SetVectorY,
 	cr.system_object.prototype.acts.Wait,
+	cr.system_object.prototype.acts.SubVar,
 	cr.plugins_.Sprite.prototype.acts.SetCollisions,
 	cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
 	cr.system_object.prototype.cnds.Repeat,
@@ -25843,5 +25844,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetAnimFrame,
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.system_object.prototype.cnds.OnLayoutEnd,
-	cr.system_object.prototype.acts.ResetGlobals
+	cr.system_object.prototype.acts.ResetGlobals,
+	cr.plugins_.Sprite.prototype.cnds.IsAnimPlaying,
+	cr.plugins_.Sprite.prototype.cnds.PickTopBottom
 ];};
