@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1509887004,
+	"version": 1509892791,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,10 @@
 		"media/jump_01.ogg",
 		"media/hit_01.m4a",
 		"media/hit_01.ogg",
+		"media/jump_02.m4a",
+		"media/jump_02.ogg",
+		"media/jump_03.m4a",
+		"media/jump_03.ogg",
 		"media/a new journeys path 2.m4a",
 		"media/a new journeys path 2.ogg",
 		"icon-16.png",
