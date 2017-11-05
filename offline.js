@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1509845574,
+	"version": 1509847940,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,8 @@
 		"images/gras_overlay_texture2-sheet2.png",
 		"images/sprite6-sheet0.png",
 		"images/playercollider-sheet0.png",
+		"images/heart-sheet0.png",
+		"images/heart-sheet1.png",
 		"media/checkpoint.m4a",
 		"media/checkpoint.ogg",
 		"media/coin_01.m4a",

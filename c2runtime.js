@@ -25812,6 +25812,9 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Else,
 	cr.behaviors.Flash.prototype.acts.Flash,
 	cr.plugins_.Audio.prototype.acts.Play,
+	cr.behaviors.Platform.prototype.acts.SetIgnoreInput,
+	cr.behaviors.Platform.prototype.acts.SetVectorY,
+	cr.system_object.prototype.acts.Wait,
 	cr.plugins_.Sprite.prototype.cnds.IsOutsideLayout,
 	cr.system_object.prototype.acts.RestartLayout,
 	cr.system_object.prototype.cnds.OnLayoutStart,
@@ -25822,6 +25825,8 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Sprite.prototype.acts.SetCollisions,
 	cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
+	cr.behaviors.Platform.prototype.acts.SetVectorX,
+	cr.plugins_.Sprite.prototype.exps.X,
 	cr.system_object.prototype.cnds.Compare,
 	cr.plugins_.Sprite.prototype.exps.Count
 ];};
