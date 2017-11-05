@@ -25776,14 +25776,14 @@ cr.behaviors.solid = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
-	cr.plugins_.Mouse,
 	cr.plugins_.Keyboard,
+	cr.plugins_.Mouse,
 	cr.plugins_.gamepad,
-	cr.plugins_.Sprite,
-	cr.plugins_.Touch,
 	cr.plugins_.TiledBg,
+	cr.plugins_.Sprite,
 	cr.plugins_.TextBox,
 	cr.plugins_.WebStorage,
+	cr.plugins_.Touch,
 	cr.behaviors.solid,
 	cr.behaviors.Flash,
 	cr.behaviors.EightDir,
@@ -25812,10 +25812,10 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio.prototype.acts.Play,
 	cr.behaviors.Platform.prototype.cnds.IsMoving,
 	cr.plugins_.Audio.prototype.cnds.IsTagPlaying,
+	cr.behaviors.Platform.prototype.cnds.IsJumping,
+	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Sprite.prototype.acts.SetCollisions,
 	cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
 	cr.system_object.prototype.cnds.Compare,
-	cr.plugins_.Sprite.prototype.exps.Count,
-	cr.system_object.prototype.cnds.TriggerOnce
+	cr.plugins_.Sprite.prototype.exps.Count
 ];};
-

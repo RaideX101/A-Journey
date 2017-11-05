@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1509830247,
+	"version": 1509840868,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,8 @@
 		"media/coin_01.m4a",
 		"media/coin_01.ogg",
 		"media/walk_grass_01.ogg",
+		"media/jump_01.m4a",
+		"media/jump_01.ogg",
 		"media/a new journeys path 2.m4a",
 		"media/a new journeys path 2.ogg",
 		"icon-16.png",
