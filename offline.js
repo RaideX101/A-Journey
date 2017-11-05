@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1509841458,
+	"version": 1509842584,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,8 +21,6 @@
 		"images/base_cobblestone_01_side_right_corner_inward-sheet0.png",
 		"images/background_violet_test-sheet0.png",
 		"images/player-sheet0.png",
-		"images/player-sheet1.png",
-		"images/player-sheet2.png",
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/background_violetsky-sheet0.png",
