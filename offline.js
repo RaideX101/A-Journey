@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1509990332,
+	"version": 1510070459,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,7 @@
 		"images/treeborn-sheet1.png",
 		"images/treeborn-sheet2.png",
 		"images/playerbackup-sheet0.png",
+		"images/playerbackup-sheet1.png",
 		"media/checkpoint.m4a",
 		"media/checkpoint.ogg",
 		"media/coin_01.m4a",
