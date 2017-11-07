@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1510093167,
+	"version": 1510093597,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,8 +21,6 @@
 		"images/base_cobblestone_01_side_right_corner_inward-sheet0.png",
 		"images/background_violet_test-sheet0.png",
 		"images/player-sheet0.png",
-		"images/player-sheet1.png",
-		"images/player-sheet2.png",
 		"images/checkpoint-sheet0.png",
 		"images/bat01-sheet0.png",
 		"images/background_violetsky-sheet0.png",
@@ -42,6 +40,7 @@
 		"images/treeborn-sheet2.png",
 		"images/playerbackup-sheet0.png",
 		"images/playerbackup-sheet1.png",
+		"images/playerbackup-sheet2.png",
 		"media/checkpoint.m4a",
 		"media/checkpoint.ogg",
 		"media/coin_01.m4a",
