@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1510095454,
+	"version": 1510095689,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/bat02-sheet0.png",
 		"images/playercollider-sheet0.png",
 		"images/heart-sheet0.png",
+		"images/heart-sheet1.png",
 		"images/treeborn-sheet0.png",
 		"images/treeborn-sheet1.png",
 		"images/treeborn-sheet2.png",
