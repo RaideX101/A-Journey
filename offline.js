@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1510138988,
+	"version": 1510140034,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,7 @@
 		"images/player-sheet0.png",
 		"images/checkpoint-sheet0.png",
 		"images/bat01-sheet0.png",
+		"images/bat01-sheet1.png",
 		"images/background_violetsky-sheet0.png",
 		"images/background_violetsky2-sheet0.png",
 		"images/coin-sheet0.png",
